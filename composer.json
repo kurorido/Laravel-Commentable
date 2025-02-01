@@ -17,7 +17,7 @@
         "php": "^7.2|^8.0",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/database": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
-        "kalnoy/nestedset": "^5.0"
+        "kalnoy/nestedset": "^6.0"
     },
     "require-dev": {
         "graham-campbell/testbench": "^5.0",
